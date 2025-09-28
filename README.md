@@ -64,7 +64,8 @@ Zomato-Data-Analysis-Dashboard/
 
 📸 **Screenshots**
 
-*(Add screenshots of the dashboard here to showcase its features and visualizations)*
+<img width="1318" height="662" alt="image" src="https://github.com/user-attachments/assets/bdb988e6-8a23-4e68-b4f0-532f2351f082" />
+
 
 🤝 **Contributing**
 
